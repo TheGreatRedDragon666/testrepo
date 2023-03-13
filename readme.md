@@ -46,3 +46,49 @@
 
 7) Pseudo-elements are not used (note 1: pseudo-classes are ALLOWED; note 2: pseudo-elements ONLY from FontAwesome are allowed) 
 
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/102990689/224687615-d38adb1c-79fa-45a5-83e2-59c68909adf8.png">
+<img width="1255" alt="image" src="https://user-images.githubusercontent.com/102990689/224687866-4f9a3e8d-3cde-4c45-8910-7223fa0b9747.png">
+<img width="913" alt="image" src="https://user-images.githubusercontent.com/102990689/224687980-d3c7cafb-a710-4286-93d8-b7dbafae517a.png">
+
+
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/102990689/224687615-d38adb1c-79fa-45a5-83e2-59c68909adf8.png">
+<img width="641" alt="image" src="https://user-images.githubusercontent.com/102990689/224694234-4679be19-ba38-4a08-88fd-05438a0b34c6.png">
+<img width="672" alt="image" src="https://user-images.githubusercontent.com/102990689/224705819-a4e91ae4-87bb-48ad-8ed9-2cdbcf01e1b6.png">
+
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/102990689/224687615-d38adb1c-79fa-45a5-83e2-59c68909adf8.png">
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/102990689/224687615-d38adb1c-79fa-45a5-83e2-59c68909adf8.png">
+<img width="684" alt="image" src="https://user-images.githubusercontent.com/102990689/224705958-8dad5b78-c538-4a98-a419-cb0490cee4e9.png">
+<img width="681" alt="image" src="https://user-images.githubusercontent.com/102990689/224706552-c24b6e91-ea7f-4724-927e-418d061085d1.png">
+Codewars1-2022Q3
+Numbers and strings
+7 kyu https://www.codewars.com/kata/which-color-is-the-brightest
+7 kyu https://www.codewars.com/kata/disemvowel-trolls
+7 kyu https://www.codewars.com/kata/isograms
+7 kyu https://www.codewars.com/kata/digits-explosion
+6 kyu https://www.codewars.com/kata/handshake-problem
+6 kyu https://www.codewars.com/kata/duplicate-encoder
+6 kyu https://www.codewars.com/kata/n-th-fibonacci
+4 kyu https://www.codewars.com/kata/human-readable-duration-format
+Arrays
+7 kyu https://www.codewars.com/kata/head-tail-init-and-last
+6 kyu https://www.codewars.com/kata/array-deep-count
+6 kyu https://www.codewars.com/kata/length-of-missing-array
+6 kyu https://www.codewars.com/kata/pair-of-gloves
+6 kyu https://www.codewars.com/kata/sorting-by-bits
+6 kyu https://www.codewars.com/kata/lets-recycle
+Functions
+7 kyu https://www.codewars.com/kata/javascript-mathematician
+6 kyu https://www.codewars.com/kata/javascript-from-the-inside-number-1-map
+6 kyu https://www.codewars.com/kata/javascript-from-the-inside-number-2-filter
+6 kyu https://www.codewars.com/kata/power-bind
+6 kyu https://www.codewars.com/kata/closures-and-scopes
+6 kyu https://www.codewars.com/kata/can-you-keep-a-secret
+Date and time
+7 kyu https://www.codewars.com/kata/the-coupon-code
+7 kyu https://www.codewars.com/kata/unlucky-days
+6 kyu https://www.codewars.com/kata/angle-between-clock-hands
+Objects
+7 kyu https://www.codewars.com/kata/my-language-skills
+6 kyu https://www.codewars.com/kata/run-length-encoding
+6 kyu https://www.codewars.com/kata/walk-the-object-path
+
